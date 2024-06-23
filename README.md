@@ -14,7 +14,7 @@ This report was done as a portfolio project by Krunal Prajapati to showcase my d
 4) giving suggestions to improve the business performa.
 
 
-## To view the report open Hotel_Booking_Cancellations_Project.pdf File.
+## The analysis of the project can be viewed [here](https://github.com/rehanahmed23/Hotel-booking-Cancellation-EDA/blob/main/Hotel_Booking_Cancellations_Project.pdf)
 
 
 ## To view the Dataset open hotel.csv File
