@@ -11,7 +11,7 @@ This report was done as a portfolio project by Krunal Prajapati to showcase my d
 1) connecting and shaping the source data,
 2) using pandas library to clean, explore and analyze data
 3) designing an interactive report.
-4) giving suggestions to improve the business performa.
+4) giving suggestions to improve the business performance.
 
 
 ## The analysis of the project can be viewed [here](https://github.com/rehanahmed23/Hotel-booking-Cancellation-EDA/blob/main/Hotel_Booking_Cancellations_Project.pdf)
