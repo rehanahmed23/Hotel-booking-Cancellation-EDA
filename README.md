@@ -17,4 +17,6 @@ This report was done as a portfolio project by Krunal Prajapati to showcase my d
 ## The analysis of the project can be viewed [here](https://github.com/rehanahmed23/Hotel-booking-Cancellation-EDA/blob/main/Hotel_Booking_Cancellations_Project.pdf)
 
 
-## To view the Dataset open hotel.csv File
+## To view the Dataset [Download the csv file](https://github.com/rehanahmed23/Hotel-booking-Cancellation-EDA/blob/main/hotel.csv)
+
+## To view the python code, kindly open the [jupyter notebook](https://github.com/rehanahmed23/Hotel-booking-Cancellation-EDA/blob/main/Hotel_Booking_Cancellations_Project.ipynb)
