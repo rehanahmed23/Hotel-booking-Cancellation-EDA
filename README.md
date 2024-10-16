@@ -1,6 +1,6 @@
 # Hotel-booking-Cancellation-EDA
 
-This report was done as a portfolio project by Krunal Prajapati to showcase my data analyst skills.
+This report was done as a portfolio project by Rehan Ahmed to showcase my data analyst skills.
 
 
 ## About the report :-
